@@ -3,7 +3,7 @@
 <h2 align="center"><img align="center" alt="Kenzo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/964579771281453088/964584598598221884/removal.ai_tmp-6259b143044f0.png"></h2>
 <h3 align="center">Gamedev and Programmer</h3>
 
-<p align="center">🔭 I’m currently working on **Frenet**
+<p align="center">🔭 I’m currently working in **Japan**
 
 <p align="center">🌱 I’m currently learning **Unity Engine and C#**
  
